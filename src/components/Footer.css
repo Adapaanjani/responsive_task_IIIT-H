@@ -1,0 +1,89 @@
+.overlap-4 {
+    background-image: url(https://c.animaapp.com/uuBspW1o/img/rectangle-504.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 533px;
+    left: 120px;
+    position: absolute;
+    top: 3229px;
+    width: 1680px;
+}
+  
+.text-wrapper-37 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: 34.5px;
+    position: absolute;
+    top: 213px;
+    width: 735px;
+}
+  
+.text-wrapper-38 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 64px;
+    font-weight: 800;
+    left: 120px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 120px;
+}
+  
+.frame-2 {
+    align-items: center;
+    background-color: #A9C2CB;
+    border-radius: 20px;
+    box-shadow: 0px 19px 45px -10px #0d0f1280;
+    display: inline-flex;
+    gap: 10px;
+    justify-content: center;
+    left: 793px;
+    overflow: hidden;
+    padding: 26px 54px 26px 54px;
+    position: absolute;
+    top: 331px;
+    margin-left: 60px;
+}
+  
+.frame-3 {
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 24px;
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    left: 120px;
+    overflow: hidden;
+    padding: 26px 32px 26px 32px;
+    position: absolute;
+    top: 331px;
+    width: 649px;
+}
+  
+.text-wrapper-39 {
+    color: #171e2780;
+    flex: 1;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+}
+  
+.text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Plus Jakarta Sans", Helvetica;
+    font-size: 24px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+}

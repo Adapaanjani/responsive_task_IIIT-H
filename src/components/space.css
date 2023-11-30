@@ -1,0 +1,44 @@
+  .group-5 {
+    height: 204px;
+    left: 151px;
+    position: absolute;
+    top: 1186px;
+    width: 1618px;
+  }
+  
+    .spacex-logo {
+    height: 204px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 305px;
+  }
+  
+    .element-NASA-worm {
+    height: 31px;
+    left: 531px;
+    object-fit: cover;
+    position: absolute;
+    top: 87px;
+    width: 114px;
+  }
+  
+    .boeing-logo {
+    height: 149px;
+    left: 890px;
+    object-fit: cover;
+    position: absolute;
+    top: 28px;
+    width: 265px;
+  }
+  
+    .astroscale-main-logo {
+    height: 102px;
+    left: 1298px;
+    object-fit: cover;
+    position: absolute;
+    top: 51px;
+    width: 320px;
+  }
+  
